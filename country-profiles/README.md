@@ -1,1 +1,1 @@
-
+This folder contains the AAI Country Profile scorecards for the four canonical profiled countries: Botswana (Phase 4), Rwanda (Phase 3B), Senegal (Phase 2), and Niger (Phase 1). Each profile includes a composite score, dimension scores, top indicators, dimension gap and SAS label, flag disclosures, regional peer context, and a limitations note. All profiles reflect First Iteration 2026 baseline scores. Heritage Builders. Lead Researcher: Rev. Matthew Gaddy.
