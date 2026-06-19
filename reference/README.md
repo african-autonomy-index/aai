@@ -1,1 +1,1 @@
-
+This folder contains the AAI Reference Source Matrix v3.1 and Glossary v2.0. These documents provide the master citation registry, data source catalog, commitment items register, and full acronym glossary for the African Autonomy Index First Iteration 2026.
