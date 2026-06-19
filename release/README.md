@@ -1,1 +1,1 @@
-
+This folder contains official release documents for the African Autonomy Index (AAI) First Iteration 2026, including the AAI Graphics and Visualizations Register v1.0. The Graphics Register covers all 26 AAI charts and diagrams across in-chapter graphics (G-001 through G-019) and GEM Knowledge Base visualizations (G-EXT-01 through G-EXT-07), with Golden Captions and GEM Talking Points for each. Heritage Builders. Lead Researcher: Rev. Matthew Gaddy.
