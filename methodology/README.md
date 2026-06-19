@@ -1,1 +1,1 @@
-
+This folder contains the complete African Autonomy Index (AAI) methodology — 10 chapters covering the full theoretical framework, indicator specifications, scoring methodology, classification system, data protocols, limitations, applications, and conclusions. Also includes the AAI Table of Contents v2.2. All documents reflect the First Iteration 2026. Heritage Builders. Lead Researcher: Rev. Matthew Gaddy.
