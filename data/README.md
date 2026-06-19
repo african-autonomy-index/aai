@@ -1,1 +1,1 @@
-
+This folder contains the quantitative data files for the African Autonomy Index (AAI) First Iteration 2026. Includes the all-countries composite score dataset (55 AU member states, Economic Sovereignty and Political Integration scores, Phase assignments, and flag notations) and the master validation workbook with indicator-level scoring, flag assignments, and sensitivity scenario tabs across all 15 indicators. Heritage Builders. Lead Researcher: Rev. Matthew Gaddy.
